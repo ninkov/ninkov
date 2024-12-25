@@ -1,4 +1,8 @@
-## Hi there 👋
+## 👋 Hello,  i'm Lachezar Ninkov 
+I'm passion Front-end web developer and i love to develop small app that help in real world
+
+
+
 
 <!--
 **ninkov/ninkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
