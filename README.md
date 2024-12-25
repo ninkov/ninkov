@@ -6,7 +6,7 @@ I'm passion Front-end web developer and i love to develop small app that help in
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ninkov&theme=github-dark&hide_border=true&border_radius=4.7&short_numbers=true&card_height=197)](https://git.io/streak-stats)
 
-![Ninkov's GitHub stats](https://github-readme-stats.vercel.app/api?username=ninkov&hide_border=true&show_icons=true&bg_color=#38bd4e&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
+![Ninkov's GitHub stats](https://github-readme-stats.vercel.app/api?username=ninkov&hide_border=true&show_icons=true&bg_color=191919&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
 
 <!--
 **ninkov/ninkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
