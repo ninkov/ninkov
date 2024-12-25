@@ -1,6 +1,6 @@
 ## 👋 Hello,  i'm Lachezar Ninkov 
 I'm passion Front-end web developer and i love to develop small app that help in real world
-![](https://komarev.com/ghpvc/?username=ninkov&color=white)
+![](https://komarev.com/ghpvc/?username=ninkov&color=yellow)
 
 
 
