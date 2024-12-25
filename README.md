@@ -1,6 +1,7 @@
 ## 👋 Hello,  i'm Lachezar Ninkov 
-I'm passion Front-end web developer and i love to develop small app that help in real world
-![](https://komarev.com/ghpvc/?username=ninkov&color=yellow)
+I've been working like front-end web developer for a while now.
+With passion i develop and i love to code small app that help in real world!
+
 
 <h3>My GitHub contributions summary</h3>
 
@@ -8,6 +9,7 @@ I'm passion Front-end web developer and i love to develop small app that help in
 
 ![Ninkov's GitHub stats](https://github-readme-stats.vercel.app/api?username=ninkov&hide_border=true&show_icons=true&bg_color=34322e&title_color=3ad353&icon_color=3ad353&text_bold=false&text_color=fff)
 
+![](https://komarev.com/ghpvc/?username=ninkov&color=yellow)
 <!--
 **ninkov/ninkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
