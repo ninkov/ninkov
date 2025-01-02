@@ -15,11 +15,9 @@ With passion i develop and i love to code small app that help in real world!
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
 </p>
+
 <h3>Contributions Summary</h3>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ninkov&theme=github-dark&hide_border=true&border_radius=4.7&short_numbers=true&card_height=197)](https://git.io/streak-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ninkov&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
 
 ![Ninkov's GitHub stats](https://github-readme-stats.vercel.app/api?username=ninkov&hide_border=true&show_icons=true&bg_color=34322e&title_color=3ad353&icon_color=3ad353&text_bold=false&text_color=fff)
 
