@@ -23,6 +23,7 @@ With passion i develop and i love to code small app that help in real world!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ninkov&layout=compact)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
 <!--
 **ninkov/ninkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
