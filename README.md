@@ -21,6 +21,7 @@ With passion i develop and i love to code small app that help in real world!
 
 ![Ninkov's GitHub stats](https://github-readme-stats.vercel.app/api?username=ninkov&hide_border=true&show_icons=true&bg_color=34322e&title_color=3ad353&icon_color=3ad353&text_bold=false&text_color=fff)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ninkov&layout=compact)
 
 <!--
 **ninkov/ninkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
