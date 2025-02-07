@@ -18,7 +18,7 @@ With passion i develop and i love to code small app that help in real world!
 
 <h3>Contributions Summary</h3>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ninkov&theme=dark-smoky&hide_border=true)](https://git.io/streak-stats)
+
 
 ![Ninkov's GitHub stats](https://github-readme-stats.vercel.app/api?username=ninkov&hide_border=true&show_icons=true&bg_color=34322e&title_color=3ad353&icon_color=3ad353&text_bold=false&text_color=fff)
 
