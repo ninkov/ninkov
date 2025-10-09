@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Ninkov
+# 👋 Hi, I’m Lachezar Ninkov
 
 💡 I’m a **Front-End Web Developer** passionate about crafting **interactive, user-friendly web applications** using modern technologies.  
 I focus on building clean, efficient, and responsive interfaces — turning ideas into smooth digital experiences.
