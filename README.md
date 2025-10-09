@@ -1,3 +1,62 @@
+# 👋 Hi, I’m Ninkov
+
+💡 I’m a **Front-End Web Developer** passionate about crafting **interactive, user-friendly web applications** using modern technologies.  
+I focus on building clean, efficient, and responsive interfaces — turning ideas into smooth digital experiences.
+
+---
+
+### 🧠 About Me
+- 💻 Focused on  and **modern front-end development**
+- ⚙️ Skilled with **React**, **JavaScript**, **Vite**, **TailwindCSS**, **HTML**, **CSS**, **Git**, and **NPM**
+- 🌱 Currently learning more about **Node.js** and backend logic
+- 🎯 Dedicated to writing **clean, reusable, and accessible code**
+- 🧩 I value performance, clarity, and continuous improvement
+
+---
+
+### 🛠️ Tech Stack
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=fff)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=fff)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=fff)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=fff)
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ninkov&show_icons=true&theme=default&hide_border=true&count_private=true" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninkov&layout=compact&hide_border=true&theme=default" height="160px" />
+</p>
+
+---
+
+### 🌍 Connect With Me
+<p align="left">
+ <!-- <a href="https://linkedin.com" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>-->
+  <a href="mailto:ninkov82@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+<!--  <a href="https://yourwebsite.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  </a>-->
+</p>
+
+---
+
+> *“Code is like humor. When you have to explain it, it’s bad.”*  
+> — **Cory House**
+
+
+
+
+<!--
 ## 👋 Hello,  i'm Lachezar Ninkov 
 I've been working like front-end web developer for a while now.
 With passion i develop and i love to code small app that help in real world!
@@ -24,7 +83,7 @@ With passion i develop and i love to code small app that help in real world!
 
 
 
-<!--
+
 **ninkov/ninkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -38,3 +97,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
