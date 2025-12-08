@@ -27,11 +27,6 @@ I focus on building clean, efficient, and responsive interfaces — turning idea
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ninkov&show_icons=true&theme=default&hide_border=true&count_private=true" height="160px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninkov&layout=compact&hide_border=true&theme=default" height="160px" />
-</p>
 
 ---
 
