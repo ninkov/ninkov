@@ -1,12 +1,15 @@
 # 👋 Hi, I’m Lachezar Ninkov
 
+🌐 Portfolio: https://ninkov-studio.dev  
+🚀 Available for freelance projects
+
 💡 I’m a **Front-End Web Developer** passionate about crafting **interactive, user-friendly web applications** using modern technologies.  
 I focus on building clean, efficient, and responsive interfaces — turning ideas into smooth digital experiences.
 
 ---
 
 ### 🧠 About Me
-- 💻 Focused on  and **modern front-end development**
+- 💻 Focused on **React development** and modern front-end solutions
 - ⚙️ Skilled with **React**, **JavaScript**, **Vite**, **TailwindCSS**, **HTML**, **CSS**, **Git**, and **NPM**
 - 🌱 Currently learning more about **Node.js** and backend logic
 - 🎯 Dedicated to writing **clean, reusable, and accessible code**
@@ -27,6 +30,38 @@ I focus on building clean, efficient, and responsive interfaces — turning idea
 
 ---
 
+### 🚀 Featured Projects
+
+#### 🎮 Interactive Educational Game
+Web application built with React for Demetra Association.
+
+- Interactive decision-based scenarios  
+- Structured learning flow  
+- Responsive UI  
+
+🔗 Live: https://demetra.bg/interactive/  
+📖 Case Study: https://ninkov-studio.dev/projects/interactive-game  
+
+---
+
+#### 🌐 WordPress Business Website
+Clean and structured business website with responsive design.
+
+🔗 Live: https://aibb-estate.eu/  
+📖 Case Study: https://ninkov-studio.dev/projects/wordpress-business-website  
+
+---
+
+---
+
+### 💼 Work With Me
+
+I help businesses build:
+- Modern websites  
+- Landing pages  
+- React applications  
+
+👉 Contact me: https://ninkov-studio.dev/contact
 
 ---
 
